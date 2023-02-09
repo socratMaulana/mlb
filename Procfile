@@ -1,1 +1,1 @@
-web:gunicorn
+web heroku-php-apache2
